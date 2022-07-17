@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ksaffron's 42 stats](https://badge42.vercel.app/api/v2/cl5p8q72e004009jrd2ukykfk/stats?cursusId=21&coalitionId=91)]  
-
-[![ksaffron's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl5p8q72e004009jrd2ukykfk/project/2390809)](https://github.com/JaeSeoKim/badge42)
+[![ksaffron's 42 stats](https://badge42.vercel.app/api/v2/cl5p8q72e004009jrd2ukykfk/stats?cursusId=21&coalitionId=91)]
 
 <img align = "left" width = "48%" src = "https://github-readme-stats.vercel.app/api?username=koztimesin&show_icons=true&theme=tokyonight" />
 
