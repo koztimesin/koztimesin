@@ -1,5 +1,6 @@
 # Hi there 👋  
-## I'm 20 years old self-learner, currently studying at 21 School (Ècole 42)![42_logo_black-2](https://user-images.githubusercontent.com/54405163/179396926-d547bf8a-69ee-4650-84e2-84272a29852f.png)
+## I'm 20 years old self-learner, currently studying at 21 School (Ècole 42)![42_logo_black-3](https://user-images.githubusercontent.com/54405163/179397003-feb05d82-6941-4fe9-919f-c3d7903a802f.png)
+
 
 
 
