@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ksaffron's 42 stats](https://badge42.vercel.app/api/v2/cl5p8q72e004009jrd2ukykfk/stats?cursusId=21&coalitionId=91)]
-
 <img align = "left" width = "48%" src = "https://github-readme-stats.vercel.app/api?username=koztimesin&show_icons=true&theme=tokyonight" />
 
 <img align = "left" width = "40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=koztimesin&layout=compact&theme=tokyonight" />
