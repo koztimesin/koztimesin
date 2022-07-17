@@ -1,5 +1,6 @@
 # Hi there 👋  
-## I'm 20 years old self-learner, currently studying at 21 School (Ècole 42)
+## I'm 20 years old self-learner, currently studying at 21 School (Ècole 42)![42_logo_black](https://user-images.githubusercontent.com/54405163/179396809-340fbe47-4c93-4e99-af3b-6210f7e108b3.png)
+
 
 <!--
 **koztimesin/koztimesin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
