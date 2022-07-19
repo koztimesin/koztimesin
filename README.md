@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 <img align = "left" width = "40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=koztimesin&layout=compact&theme=tokyonight" />  
 
-[![ksaffron's 42 stats](https://badge42.vercel.app/api/v2/cl5p8q72e004009jrd2ukykfk/stats?cursusId=21&coalitionId=91)]
+[![ksaffron's 42 stats](https://badge42.vercel.app/api/v2/cl5p8q72e004009jrd2ukykfk/stats?cursusId=21&coalitionId=91)](https://github.com/JaeSeoKim/badge42)
