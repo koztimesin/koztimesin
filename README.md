@@ -1,5 +1,5 @@
 # Hi there 👋  
-## I'm 20 years old self-learner, currently studying at 21 School (Ècole 42)
+## Student at 21 School (Ècole 42)
 
 
 
